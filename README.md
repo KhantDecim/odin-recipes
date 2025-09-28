@@ -6,6 +6,6 @@ Odin's project of making a recipes website using only html
 
 -Git is only use from CLI
 
--Recipes & images are from https://www.allrecipes.com/
+-Recipes & images are from https://www.allrecipes.com/ <a href="https://www.allrecipes.com/">AllRecipes<a/>
 
 -Please consider using git & github from CLI, I know it is a hassel at the beginning it goes the same for me
